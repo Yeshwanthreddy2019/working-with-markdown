@@ -26,7 +26,7 @@ Scroll back down to see the URL of your published site. Copy this URL and put it
 You can edit README.md online by clicking on the file name and then the pencil icon OR you can install a text editor like VS Code. 
 
 If you use VS Code, the following extensions may be helpful:
-
+##jhgyjgy
 - "Auto-Open Markdown Preview"
 - "Markdown Preview Enhanced"
 - "markdownlint" (recommended)
